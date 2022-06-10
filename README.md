@@ -37,7 +37,7 @@ console.log(playRound(playerSelection, computerSelection));
     }
     ```
     *  At this point you should be using console.log() to display the results of each round and the winner at the end.
-    * Use prompt() to get input from the user. Read the docs here if you need to.
+    * Use prompt() to get input from the user. <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt" target="_blank" rel="noreferrer">Read the docs here if you need to.</a>
     * Feel free to re-work your previous functions if you need to. Specifically, you might want to change the return value to something more useful.
     * Feel free to create more “helper” functions if you think it would be useful.
 
