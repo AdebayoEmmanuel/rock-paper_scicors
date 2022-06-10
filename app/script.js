@@ -4,7 +4,6 @@ const choiceArray = ["rock", "paper", "scissors", "lizard", "spock"];
 const playerWin = "You win that round!";
 const compWin = "Computer wins that round!";
 const tied = "That's a tie!";
-let overallWinner;
 function playRound(playerSelection, computerSelection) {
     switch (playerSelection, computerSelection) {
         case 0, 0: //rock v rock
@@ -104,7 +103,6 @@ game = () => {
         }
     }
     let absTie = tiedScore > playerScore && tiedScore > compScore;
-    console.log("" + playerScore + " " + compScore + " " + tiedScore)
     if (absTie){
        return "Its a tie!";
     }

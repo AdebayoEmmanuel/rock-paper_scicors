@@ -10,7 +10,7 @@ This is a mini project from my Full Stack Web Development Foundation course at 
 
 ## Rock Paper Scissors Lizard Spock game flow :
 <img src="https://user-images.githubusercontent.com/92952014/173149964-bac77dce-7f6c-4ea9-ac9c-f7efdec2b9a8.png" 
-        alt="logo" 
+        alt="flow" 
         width="400" 
         height="300" 
         style="display: block; margin: 0 auto" />
