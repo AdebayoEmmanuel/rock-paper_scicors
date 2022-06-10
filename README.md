@@ -30,7 +30,7 @@ const computerSelection = computerPlay();
 console.log(playRound(playerSelection, computerSelection));
 ```
 * Write a NEW function called game(). Call the playRound function inside of this one to play a 5 round game that keeps score and reports a winner or loser at the end.
-    * Remember loops? This is a great opportunity to use one to play those five rounds:
+    * <a href="https://www.theodinproject.com/lessons/foundations-problem-solving#solving-fizz-buzz" target="_blank" rel="noreferrer">Remember loops?</a> This is a great opportunity to use one to play those five rounds:
     ```javascript
     for (let i = 0; i < 5; i++) {
         // your code here!
