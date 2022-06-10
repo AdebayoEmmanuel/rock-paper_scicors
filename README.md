@@ -1,4 +1,4 @@
-# rock-paper_scicors
+# rock-paper_scissors
 This is a mini project from my Full Stack Web Development Foundation course at The Odin's Project. Though the project is almost entirely written in JavaScript at the time of creation, it is more of a problem-solving effort than a coding project, hence the README.md file will contain flowcharts and some scribbled thought processes. This initial version runs solely on the console; as I progress through The Odin's Project curriculum, further functionalities will be added, and the project will be revisited and adjusted accordingly.
 
 ## Quick Start:
