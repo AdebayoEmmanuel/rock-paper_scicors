@@ -72,7 +72,7 @@ game = () => {
     let compScore = 0;
     let playerScore = 0;
     let tiedScore = 0;
-    for (let i = 0; i < 5; i++) {
+    // for (let i = 0; i < 5; i++) {
         let playerChoice = prompt("Kindly make a choice between Rock, Paper, Scissors, Lizard and Spock: ");
         playerChoice = playerChoice.toLowerCase();
         let playerSelection = choiceArray.indexOf(playerChoice);
@@ -101,7 +101,7 @@ game = () => {
                 console.log(round);
             }
         }
-    }
+    // }
     let absTie = tiedScore > playerScore && tiedScore > compScore;
     if (absTie){
        return "Its a tie!";
